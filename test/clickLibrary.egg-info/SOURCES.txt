@@ -1,0 +1,7 @@
+__init__.py
+clickLibrary.py
+setup.py
+clickLibrary.egg-info/PKG-INFO
+clickLibrary.egg-info/SOURCES.txt
+clickLibrary.egg-info/dependency_links.txt
+clickLibrary.egg-info/top_level.txt
