@@ -18,7 +18,7 @@ $ ./clickLibrary detached-hello
 $ python -m clickLibrary detached-hello
 ```
 
-Python Package Example:
+Python Package Example: ( .whl file is the download for the package itself )
 
 ~~~bash
 # command to install package file
